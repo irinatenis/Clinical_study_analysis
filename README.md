@@ -6,7 +6,7 @@ To generate all of the tables and figures needed for the technical report of a c
 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 ### <ins>Technology:</ins> 
-Pandas and Matplotlib
+Pandas, Matplotlib, numpy, scipy.stats
 
 ### <ins>Analysis:</ins>
 - There is only 1 outlier in the total dataset and not a single outlier for the Camopulin treatment. which makes the results statistically significant.
