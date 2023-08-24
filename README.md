@@ -1,4 +1,4 @@
-# Matplotlib-challenge
+# Clinical study analysis
 
 ### <ins>Goal of the project:</ins>
 To generate all of the tables and figures needed for the technical report of a clinical study conducted by a new pharmaceutical company that specializes in anti-cancer medications and to create a top-level summary of the study results.
